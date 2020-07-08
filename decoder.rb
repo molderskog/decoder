@@ -3,7 +3,12 @@ KEY = {
     2 => 'B',
     3 => 'C',
     4 => 'D',
-    5 => 'E'
+    5 => 'E',
+    6 => 'F',
+    7 => 'G',
+    8 => 'H',
+    9 => '*',
+    10 => 'J',
 }
 
 # Define a method that takes an array of numbers to decode.
